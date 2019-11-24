@@ -4,6 +4,8 @@ Conway's Game of Life using react
 
 预览: [https://hacker0limbo.github.io/game-of-life/](https://hacker0limbo.github.io/game-of-life/)
 
+![demo](demo/demo.gif)
+
 ## 规则
 根据[wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)上的说明, 如下:
 - 任何处于存活状态的 cell, 如果周围存在 `2 或者 3` 个 neighbors(活着的 cell), 那么该 cell 继续生存
