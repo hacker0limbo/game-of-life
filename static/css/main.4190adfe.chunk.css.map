@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,UAAW,CACX,WAAY,CACZ,qBAAuB,CACvB,cACF","file":"main.4190adfe.chunk.css","sourcesContent":[".col {\n  width: 20px;\n  height: 20px;\n  border: solid 1px black;\n  cursor: pointer;\n}\n"]}
